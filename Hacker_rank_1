@@ -5,4 +5,5 @@ The CITY table is described as follows:
 */
 
 
+
 SELECT * FROM CITY WHERE CountryCode = 'USA' and POPULATION > 100000;
